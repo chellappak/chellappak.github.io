@@ -31,7 +31,6 @@ As I learn, this space will also expand into:
 - System Design
 - APIs and Microservices
 - Databases
-- DevOps fundamentals
 
 ---
 
