@@ -5,7 +5,7 @@ title: Home
 
 # Welcome 👋
 
-Hi, I'm CK.
+Hi, I'm Chellappa.
 
 This blog documents my journey toward becoming a skilled Cloud and Backend Engineer.
 
