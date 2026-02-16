@@ -1,8 +1,3 @@
----
-layout: home
-title: Home
----
-
 # Welcome 👋
 
 Hi, I'm Chellappa.
@@ -13,10 +8,6 @@ I’m currently preparing for the AWS Solutions Architect – Associate certific
 
 - Structured notes on core AWS services
 - Hands-on labs and implementation walkthroughs
-- Architecture design patterns
-- Security and networking fundamentals
-- Cost optimization strategies
-- Real-world scenario breakdowns
 
 All content is based on practical learning and experimentation on Amazon Web Services (AWS).
 
@@ -34,7 +25,7 @@ Every post focuses on:
 - Real implementation examples
 - Best practices for production-ready systems
 
-As I grow, this space will also expand into:
+As I learn, this space will also expand into:
 
 - Backend Engineering
 - System Design
