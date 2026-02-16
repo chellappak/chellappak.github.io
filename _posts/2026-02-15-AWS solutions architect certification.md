@@ -13,4 +13,4 @@ This certification is all about learning how to design cost-effective, high-perf
 
 - you can view more details about the exam [here](https://docs.aws.amazon.com/aws-certification/latest/examguides/solutions-architect-associate-03.html?refid=50fd1d88-f5af-4fa6-9b0b-5a8afc70d2f0)
 
-- [Official AWS link to schedule the exam](<(https://aws.amazon.com/certification/certified-solutions-architect-associate/)>)
+- [AWS link to schedule the exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
