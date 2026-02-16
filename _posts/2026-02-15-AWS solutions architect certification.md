@@ -4,10 +4,12 @@ This certification is all about learning how to design cost-effective, high-perf
 
 ## Exam domain and their weightings
 
-Design Secure Architectures - 30% of scored content
-Design Resilient Architectures - 26% of scored content
-Design High-Performing Architectures - 24% of scored content
-Design Cost-Optimized Architectures - 20% of scored content
+| Domain                               | Weight |
+| ------------------------------------ | ------ |
+| Design Secure Architectures          | 30%    |
+| Design Resilient Architectures       | 26%    |
+| Design High-Performing Architectures | 24%    |
+| Design Cost-Optimized Architectures  | 20%    |
 
 - you can view more details about the exam [here](https://docs.aws.amazon.com/aws-certification/latest/examguides/solutions-architect-associate-03.html?refid=50fd1d88-f5af-4fa6-9b0b-5a8afc70d2f0)
 
