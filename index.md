@@ -36,7 +36,7 @@ As I learn, this space will also expand into:
 
 ## 🎯 Goal
 
-To build scalable, secure, and reliable systems — and document the process openly to help other aspiring engineers.
+To build scalable, secure, and reliable systems — and document the process to help other engineers.
 
 ---
 
