@@ -13,7 +13,7 @@ All content is based on practical learning and experimentation on Amazon Web Ser
 
 ---
 
-## 🚀 What You'll Find Here
+## What You'll Find Here
 
 This blog is not just theory.
 
@@ -34,9 +34,9 @@ As I learn, this space will also expand into:
 
 ---
 
-## 🎯 Goal
+## Goal
 
-To build scalable, secure, and reliable systems — and document the process to help other engineers.
+To build scalable, secure, and reliable systems and document the process to help other engineers.
 
 ---
 
